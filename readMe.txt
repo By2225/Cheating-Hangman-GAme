@@ -9,9 +9,9 @@ Janil Lema
 
 	For Project 5, the program works exactly as described
 in assignment. The Game class is where everything is located while the
- HangManTest class is where it just tests the game. Both of 
- the classes were influenced by the examples written by Cannon,
- the rules of the game, and the tips Cannon gave. 
+HangManTest class is where it just tests the game. Both of 
+the classes were influenced by the examples written by Cannon,
+the rules of the game, and the tips Cannon gave. 
 In this class, I had multiple methods that represented each
 function that would make up the game. The first method is
 the play method which encapsulates all of the methods necessary
